@@ -1,0 +1,11 @@
+#Mongo DB properties
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: employeedb
+#      username: root
+#      password: admin
+
+
